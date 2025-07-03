@@ -17,7 +17,7 @@ Everyone is welcome to contribute, as long as contributions follow these guideli
 ## Guidelines Evolution
 - Contributors are welcome to propose changes to these guidelines
 - Guideline modifications must themselves follow the guidelines
-- Guideline modifications should not restrict the scope of the repo too much
+- Guideline modifications should not restrict the scope of the repo too much (can't be bypassed with the leniency password)
 - The AI curator will review all guideline change proposals
 
 ## Additional comments
