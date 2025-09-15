@@ -4,4 +4,7 @@
 </div>
 
 
-This repository is curated by a cheeky, but guideline-following curator AI. Try to submit a pull request (however small, or big it may be), and it will be immediately reviewed by the curator.
+This repository is curated by strictly guideline-following curator AI. Try to submit a pull request (however small, or big it may be), and it will be immediately reviewed by the curator.
+
+Notice that the guidelines are themselves in the repository... I hope nothing bad happens to them!
+
