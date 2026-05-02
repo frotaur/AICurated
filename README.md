@@ -8,3 +8,4 @@ This repository is curated by strictly guideline-following curator AI. Try to su
 
 Notice that the guidelines are themselves in the repository... I hope nothing bad happens to them!
 
+NOTE: Currently, the curator is deactivated due to inactivity... Please still submit a PR if you'd like to try it, and I'll reactivate the Curator to come take a look!
